@@ -1,0 +1,13 @@
+Foi feito o diagrama de definição da arquitetura Básica da Solução.
+Foi feito o diagrama do Banco de dados.
+Demos inicio ao projeto no eclipse, foi criado a string de conexão para o SQL.
+
+Fluxo de informação (CRUD):
+1º - Cadastrar o contato (cliente)
+2º - Cadastrar o endereço do contato, caso não exista a cidade de contato cadastrada no sistema deve-se cadastrar a cidade.
+3º - Cadastrar o telefone do contato.
+4º - Cadastrar agendamento.
+5º - Alterar
+6º - Excluir
+
+Obs.: O banco receberá uma carga de cadastros de cidades e ufs.
